@@ -1,0 +1,104 @@
+@font-face {
+    font-family: "circular std";
+    src:url("/fonts/circular-std-medium-500.ttf")
+
+}
+@font-face {
+    font-family: "ramaraja";
+    src: url("/fonts/Ramaraja-Regular.ttf");
+}
+
+    
+.logo {
+    max-width: 95.25px;
+    width: 100%;
+    font-family: "circular std","roboto";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 160%;
+    letter-spacing: -0.02em;
+    color:#0A1B32;
+    text-shadow: 0px 4px 4px
+    rgba(0,0,0,0.25);
+    margin-top: 37px;
+    margin-bottom: 35px;
+    margin-left: 80px;
+}
+
+ul {
+    display:flex;
+list-style-type: none;
+margin-top: 48px;
+margin-right: 752.2;
+margin-bottom: 848px;
+margin-left: 272.76px;
+}
+
+.logo-dot {
+    color:#FC569A;
+   
+}
+
+
+.main-head{
+    max-width: 495;
+    width:100%;
+    font-family: "ramaraja";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: 0.02em;
+    margin-top: 20px;
+    margin-bottom: 3x;
+    margin-left: 175px;
+    
+}
+
+.main-para {
+    max-width: 581px;
+    width:100%;
+    font-family: "roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    color:#9A9A9A;
+    margin-top: 3px;
+    margin-left: 190px;
+}
+
+.main-button {
+    background-color: #FC569A;
+    border-radius: 6px;
+    width: 152px;
+    height:63.82px;
+    font-family: "roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color:#FFFFFF;
+    margin-top: 46.71px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+   border:none;
+    
+    
+    
+}
+section {
+    display:flex;
+}
+
+.image {
+    width: 600px;
+    height: 400px;
+    margin-left:300px ;
+    margin-top:2px;
+    filter:drop-shadow(0px 4px 4px)
+    rgba(0, 0,0,0.25);
+
+
+}
